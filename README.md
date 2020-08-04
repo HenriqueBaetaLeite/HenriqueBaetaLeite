@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a software development student at Trybe.
+I have knowledge in HTML5, CSS3, JavaScript, React, Redux, ContextAPI, Hooks, Git, Github.
+
+Contact me at: https://www.linkedin.com/in/henrique-ba%C3%AAta-leite-785a4b15a/
 
 <!--
 **HenriqueBaetaLeite/HenriqueBaetaLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
