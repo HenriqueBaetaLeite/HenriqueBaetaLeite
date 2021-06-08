@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a _software_ **development** student at Trybe.
+I'm a instructor at Trybe.
 I have knowledge in HTML5, CSS3, JavaScript, React, Redux, ContextAPI, Hooks, Git, Github, Node JS,Express, API RESTFUL, Socket.io, MySQL, MongoDB, Python, WebScraping.
 
 Contact me:
