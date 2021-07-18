@@ -6,7 +6,7 @@ I have knowledge in HTML5, CSS3, JavaScript, React, Redux, ContextAPI, Hooks, Gi
 Contact me:
 
 <p>
-<a align="left" href="https://www.linkedin.com/in/henriquebaetaleite/" target="_blank"><img src="https://img.icons8.com/carbon-copy/2x/linkedin.png" alt="html5" width="48px" height="48px"/></a>
+<a align="left" href="https://www.linkedin.com/in/henriquebaetaleite/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="html5" width="48px" height="48px"/></a>
 
 <a href="https://github.com/HenriqueBaetaLeite" target="_blank">
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="48px" height="48px">
