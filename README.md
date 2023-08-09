@@ -12,6 +12,8 @@ Contact me:
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48px" height="48px">
 </a>
 
+hbaetaleite@gmail.com
+
 </p>
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
 
