@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm a instructor at Trybe.
-I have knowledge in HTML5, CSS3, JavaScript, React, Redux, ContextAPI, Hooks, Git, Github, Node JS,Express, API RESTFUL, Socket.io, MySQL, MongoDB, Python, WebScraping.
+My name is Henrique Baêta. I love to learn new things, I love to read and I consider myself curious in a good way. I have used technology as a profession and a hobby, below I have listed several projects in which I worked.
+
+Today I'm a instructor at Trybe.
+I have knowledge in HTML5, CSS3, JavaScript, React, Redux, ContextAPI, Hooks, Git, Github, Node JS,Express, API RESTFUL, Socket.io, MySQL, MongoDB, Python, WebScraping, Arduino.
 
 Contact me:
 
