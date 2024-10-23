@@ -9,11 +9,11 @@ Contact me:
 
 <p>
 <a align="left" href="https://www.linkedin.com/in/henriquebaetaleite/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="html5" width="48px" height="48px"/></a>
-
+<!--
 <a href="https://github.com/HenriqueBaetaLeite" target="_blank">
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48px" height="48px">
 </a>
-
+-->
 hbaetaleite@gmail.com
 
 </p>
